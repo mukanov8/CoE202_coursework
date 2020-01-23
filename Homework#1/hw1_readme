@@ -1,0 +1,5 @@
+##Tasks for this homework: 
+1.Generate syntactic data. 
+2.Implement Polynomial, Ridge and Lasso regression with minibatch Gradient Descent(GD). 
+3.Draw learning curves for training and validation data sets. 
+4.Apply the learned model to the test set.
