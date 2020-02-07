@@ -1,0 +1,10 @@
+Kakao Shopping Classification
+
+Tasks for this Term Project: 
+
+1. The goal of this project is to design a product classifier that predicts categories of each product. 
+   A product belongs to a maximum of 4 categories, having each of which is a hierarchical structure.
+2. I used 'brand', 'maker' and 'model' features in addition to ‘product’ features for training.
+3. I changed the model and tune the hyperparameters to increase the score as much as possible.
+
+All further information&results is prodided in the report(docx) file
